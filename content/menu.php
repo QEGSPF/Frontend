@@ -7,18 +7,15 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		    </button>
-		    <a class="navbar-brand" href="#">QEGS Precision Farming</a>
+		    <a class="navbar-brand" href="/">QEGS Precision Farming</a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		    <ul class="nav navbar-nav">
 		        <li>
-		            <a href="#">About</a>
-		        </li>
-		        <li>
-		            <a href="#">Services</a>
-		        </li>
-		        <li>
-		            <a href="#">Contact</a>
+		            <a href="/?page=moisture">Moisture Data</a>
+		            <a href="/?page=temperature">Temperature Data</a>
+		            <a href="/?page=light">Light Data</a>
+		            <a href="/?page=onoff">Appliance Data</a>
 		        </li>
 		    </ul>
 		</div>
